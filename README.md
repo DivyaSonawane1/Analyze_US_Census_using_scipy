@@ -19,6 +19,5 @@ Preliminary analysis often reveals that **population density and median income**
 
 ## 🛠️ Tech Stack
 - **Numerical & Statistical Analysis:** SciPy
-- **Data Manipulation:** Pandas
-- **Visualization:** Matplotlib, Seaborn
+- **Data Manipulation:** Pandas, Numpy
 - **Environment:** Jupyter Notebook
